@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": 1,
+  "generatedAt": "1786953600000",
+  "sync": {
+    "mode": "FULL_SNAPSHOT",
+    "deleteMissingAfterSuccessfulImport": true
+  },
+  "totalItems": 2,
+  "types": [
+    "PHOTO",
+    "VIDEO",
+    "LIVE_TIME",
+    "DOUBLE",
+    "EDGE_LIGHT",
+    "PARALLAX",
+    "DIY",
+    "CHARGING"
+  ],
+  "colors": [
+    {
+      "id": "black",
+      "title": "Black",
+      "thumb": "colors/black.png",
+      "enabled": true
+    },
+    {
+      "id": "white",
+      "title": "White",
+      "thumb": "colors/white.png",
+      "enabled": true
+    },
+    {
+      "id": "blue",
+      "title": "Blue",
+      "thumb": "colors/blue.png",
+      "enabled": true
+    },
+    {
+      "id": "green",
+      "title": "Green",
+      "thumb": "colors/green.png",
+      "enabled": true
+    },
+    {
+      "id": "pink",
+      "title": "Pink",
+      "thumb": "colors/pink.png",
+      "enabled": true
+    },
+    {
+      "id": "red",
+      "title": "Red",
+      "thumb": "colors/red.png",
+      "enabled": true
+    },
+    {
+      "id": "purple",
+      "title": "Purple",
+      "thumb": "colors/purple.png",
+      "enabled": true
+    },
+    {
+      "id": "brown",
+      "title": "Brown",
+      "thumb": "colors/brown.png",
+      "enabled": true
+    },
+    {
+      "id": "gray",
+      "title": "Gray",
+      "thumb": "colors/gray.png",
+      "enabled": true
+    }
+  ],
+  "topics": [
+    {
+      "id": "trending",
+      "title": "Trending",
+      "thumbnail": "topics/thumbnail/trending.png",
+      "background": "",
+      "icon": "topics/icon/ic_trending.png",
+      "width": "",
+      "enabled": true
+    },
+    {
+      "id": "game",
+      "title": "Game",
+      "thumbnail": "topics/thumbnail/game.png",
+      "background": "topics/background/bg_game.png",
+      "icon": "topics/icon/ic_game.png",
+      "width": "221",
+      "enabled": true
+    },
+    {
+      "id": "nature_scenery",
+      "title": "Nature & Scenery",
+      "thumbnail": "topics/thumbnail/natureScenery.png",
+      "background": "topics/background/bg_nature_scenery.png",
+      "icon": "topics/icon/ic_nature_scenery.png",
+      "width": "388",
+      "enabled": true
+    },
+    {
+      "id": "sport",
+      "title": "Sport",
+      "thumbnail": "topics/thumbnail/sport.png",
+      "background": "topics/background/bg_sport.png",
+      "icon": "topics/icon/ic_sport.png",
+      "width": "243",
+      "enabled": true
+    },
+    {
+      "id": "film",
+      "title": "Film",
+      "thumbnail": "topics/thumbnail/film.png",
+      "background": "topics/background/bg_film.png",
+      "icon": "topics/icon/ic_film.png",
+      "width": "204",
+      "enabled": true
+    },
+    {
+      "id": "cartoon",
+      "title": "Cartoon",
+      "thumbnail": "topics/thumbnail/cartoon.png",
+      "background": "topics/background/bg_cartoon.png",
+      "icon": "topics/icon/ic_cartoon.png",
+      "width": "243",
+      "enabled": true
+    },
+    {
+      "id": "anime_manga",
+      "title": "Anime & Manga",
+      "thumbnail": "topics/thumbnail/animeManga.png",
+      "background": "topics/background/bg_anime_manga.png",
+      "icon": "topics/icon/ic_anime_manga.png",
+      "width": "359",
+      "enabled": true
+    },
+    {
+      "id": "car_vehicle",
+      "title": "Car & Vehicle",
+      "thumbnail": "topics/thumbnail/carVehicle.png",
+      "background": "topics/background/bg_car_vehicle.png",
+      "icon": "topics/icon/ic_car_vehicle.png",
+      "width": "359",
+      "enabled": true
+    },
+    {
+      "id": "day_night",
+      "title": "Day & Night",
+      "thumbnail": "topics/thumbnail/dayNight.png",
+      "background": "topics/background/bg_day_night.png",
+      "icon": "topics/icon/ic_day_night.png",
+      "width": "320",
+      "enabled": true
+    },
+    {
+      "id": "parallax",
+      "title": "Parallax",
+      "thumbnail": "topics/thumbnail/parallax.png",
+      "background": "topics/background/bg_parallax.png",
+      "icon": "topics/icon/ic_parallax.png",
+      "width": "244",
+      "enabled": true
+    },
+    {
+      "id": "abstract_aesthetic",
+      "title": "Abstract & Aesthetic",
+      "thumbnail": "topics/thumbnail/abstractAesthetic.png",
+      "background": "topics/background/bg_abstract_aesthetic.png",
+      "icon": "topics/icon/ic_abstract_aesthetic.png",
+      "width": "447",
+      "enabled": true
+    },
+    {
+      "id": "cute_feminine",
+      "title": "Cute & Feminine",
+      "thumbnail": "topics/thumbnail/cuteFeminine.png",
+      "background": "topics/background/bg_cute_feminine.png",
+      "icon": "topics/icon/ic_cute_feminine.png",
+      "width": "374",
+      "enabled": true
+    },
+    {
+      "id": "music_celebrities",
+      "title": "Music & Celebrities",
+      "thumbnail": "topics/thumbnail/musicCelebrities.png",
+      "background": "topics/background/bg_music_celebrities.png",
+      "icon": "topics/icon/ic_music_celebrities.png",
+      "width": "414",
+      "enabled": true
+    },
+    {
+      "id": "culture_symbolism",
+      "title": "Culture & Symbolism",
+      "thumbnail": "topics/thumbnail/cultureSymbolism.png",
+      "background": "topics/background/bg_culture_symbolism.png",
+      "icon": "topics/icon/ic_culture_symbolism.png",
+      "width": "454",
+      "enabled": true
+    },
+    {
+      "id": "mystery_horror",
+      "title": "Mystery & Horror",
+      "thumbnail": "topics/thumbnail/mysteryHorror.png",
+      "background": "topics/background/bg_mystery_horror.png",
+      "icon": "topics/icon/ic_mystery_horror.png",
+      "width": "359",
+      "enabled": true
+    },
+    {
+      "id": "wildlife_pets",
+      "title": "Wildlife & Pets",
+      "thumbnail": "topics/thumbnail/wildlifePets.png",
+      "background": "topics/background/bg_wildlife_pets.png",
+      "icon": "topics/icon/ic_mystery_horror.png",
+      "width": "323",
+      "enabled": true
+    },
+    {
+      "id": "space_science",
+      "title": "Space & Science Fiction",
+      "thumbnail": "topics/thumbnail/spaceScience.png",
+      "background": "topics/background/bg_space_science_fiction.png",
+      "icon": "topics/icon/ic_space_science_fiction.png",
+      "width": "515",
+      "enabled": true
+    },
+    {
+      "id": "city",
+      "title": "City",
+      "thumbnail": "topics/thumbnail/city.png",
+      "background": "topics/background/bg_city.png",
+      "icon": "topics/icon/ic_city.png",
+      "width": "196",
+      "enabled": true
+    },
+    {
+      "id": "future_cyberpunk",
+      "title": "Future & Cyberpunk",
+      "thumbnail": "topics/thumbnail/futureCyberpunk.png",
+      "background": "topics/background/bg_future_cyberpunk.png",
+      "icon": "topics/icon/ic_future_cyberpunk.png",
+      "width": "445",
+      "enabled": true
+    },
+    {
+      "id": "holidays_seasons",
+      "title": "Holidays & Seasons",
+      "thumbnail": "topics/thumbnail/holidaysSeasons.png",
+      "background": "topics/background/bg_holiday_seasons.png",
+      "icon": "topics/icon/ic_holiday_seasons.png",
+      "width": "437",
+      "enabled": true
+    }
+  ],
+  "deletedIds": []
+}
